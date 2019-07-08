@@ -1,0 +1,210 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "leave_management",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "show_flexi_holidays"
+    },
+    {
+      "name": "show_holidays"
+    },
+    {
+      "name": "submit"
+    },
+    {
+      "name": "view_flexi"
+    },
+    {
+      "name": "view_leaves"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    }
+  ],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "apply for leave for 1st week of july",
+      "intent": "submit",
+      "entities": []
+    },
+    {
+      "text": "apply for leave from 20th of march to 25th of march",
+      "intent": "submit",
+      "entities": []
+    },
+    {
+      "text": "book me a flight to frankfurt",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "details of leave i have applied for",
+      "intent": "view_leaves",
+      "entities": []
+    },
+    {
+      "text": "details of leaves",
+      "intent": "view_leaves",
+      "entities": []
+    },
+    {
+      "text": "i want to take a leave",
+      "intent": "submit",
+      "entities": []
+    },
+    {
+      "text": "i want to take a leave for 1st week of july",
+      "intent": "submit",
+      "entities": []
+    },
+    {
+      "text": "i want to take a leave on 21st march",
+      "intent": "submit",
+      "entities": []
+    },
+    {
+      "text": "order a chicken tikka biryani from behrouz biryani",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "play dr. who",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "shoe upcoming public holidays for june",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show flexible holidays for march",
+      "intent": "show_flexi_holidays",
+      "entities": []
+    },
+    {
+      "text": "show flexible holidays for this month",
+      "intent": "show_flexi_holidays",
+      "entities": []
+    },
+    {
+      "text": "show flexible holidays till june",
+      "intent": "show_flexi_holidays",
+      "entities": []
+    },
+    {
+      "text": "show me details of leave i have applied for",
+      "intent": "view_leaves",
+      "entities": []
+    },
+    {
+      "text": "show me details of leaves i have applied for",
+      "intent": "view_leaves",
+      "entities": []
+    },
+    {
+      "text": "show me my leaves for march",
+      "intent": "view_leaves",
+      "entities": []
+    },
+    {
+      "text": "show me my opted flexible holidays for the month of july",
+      "intent": "view_flexi",
+      "entities": []
+    },
+    {
+      "text": "show me my opted flexible holidays for the month of march",
+      "intent": "show_flexi_holidays",
+      "entities": []
+    },
+    {
+      "text": "show me my upcoming flexible holidays",
+      "intent": "view_flexi",
+      "entities": []
+    },
+    {
+      "text": "show me news updates",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "show my flexible holidays till march",
+      "intent": "view_flexi",
+      "entities": []
+    },
+    {
+      "text": "show my opted flexible holidays for the month of march",
+      "intent": "view_flexi",
+      "entities": []
+    },
+    {
+      "text": "show the flexible holidays i have opted for",
+      "intent": "view_flexi",
+      "entities": []
+    },
+    {
+      "text": "show upcoming flexible holidays",
+      "intent": "show_flexi_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming holidays",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming holidays for march",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming holidays for this month",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming holidays till april",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming public holidays",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming public holidays for this month",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "show upcoming public holidays till june",
+      "intent": "show_holidays",
+      "entities": []
+    },
+    {
+      "text": "sing me a lullaby",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

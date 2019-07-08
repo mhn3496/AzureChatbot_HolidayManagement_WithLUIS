@@ -1,0 +1,165 @@
+{
+    "Holidays":[
+    {
+        "Index":"1",
+        "HolidayName":"New Year's Day",
+        "Type":"Public",
+        "Date":"2019-01-01",
+        "Day":"Tuesday"
+    },
+    {
+        "Index":"2",
+        "HolidayName":"Makar Sankranti",
+        "Type":"Flexible",
+        "Date":"2019-01-14",
+        "Day":"Monday"
+    },
+    {
+        "Index":"3",
+        "HolidayName":"Pongal",
+        "Type":"Flexible",
+        "Date":"2019-01-15",
+        "Day":"Tuesday"
+    },
+    {
+        "Index":"4",
+        "HolidayName":"Republic Day",
+        "Type":"Public",
+        "Date":"2019-01-26",
+        "Day":"Saturday"
+    },
+    {
+        "Index":"5",
+        "HolidayName":"Vasant Panchami",
+        "Type":"Public",
+        "Date":"2019-02-10",
+        "Day":"Sunday"
+    },
+    {
+        "Index":"6",
+        "HolidayName":"Maha Shivratri",
+        "Type":"Flexible",
+        "Date":"2019-03-04",
+        "Day":"Monday"
+    },
+    {
+        "Index":"7",
+        "HolidayName":"Holi",
+        "Type":"Public",
+        "Date":"2019-03-21",
+        "Day":"Thursday"
+    },
+    {
+        "Index":"8",
+        "HolidayName":"Ram Navmi",
+        "Type":"Public",
+        "Date":"2019-04-13",
+        "Day":"Saturday"
+    },
+    {
+        "Index":"9",
+        "HolidayName":"Vaisakhi",
+        "Type":"Public",
+        "Date":"2019-04-14",
+        "Day":"Sunday"
+    },
+    {
+        "Index":"10",
+        "HolidayName":"Good Friday",
+        "Type":"Flexible",
+        "Date":"2019-04-19",
+        "Day":"Friday"
+    },
+    {
+        "Index":"11",
+        "HolidayName":"Nagarro's Day of Reason",
+        "Type":"Flexible",
+        "Date":"2019-05-24",
+        "Day":"Friday"
+    },
+    {
+        "Index":"12",
+        "HolidayName":"Id ul Fitr",
+        "Type":"Flexible",
+        "Date":"2019-06-05",
+        "Day":"Wednesday"
+    },
+    {
+        "Index":"13",
+        "HolidayName":"Idul Juha",
+        "Type":"Flexible",
+        "Date":"2019-08-12",
+        "Day":"Monday"
+    },
+    {
+        "Index":"14",
+        "HolidayName":"Independance Day",
+        "Type":"Public",
+        "Date":"2019-08-15",
+        "Day":"Thursday"
+    },
+    {
+        "Index":"15",
+        "HolidayName":"Janmashtmi",
+        "Type":"Public",
+        "Date":"2019-08-24",
+        "Day":"Saturday"
+    },
+    {
+        "Index":"16",
+        "HolidayName":"Ganesh Chaturthi",
+        "Type":"Flexible",
+        "Date":"2019-09-02",
+        "Day":"Monday"
+    },
+    {
+        "Index":"17",
+        "HolidayName":"Onam",
+        "Type":"Flexible",
+        "Date":"2019-09-11",
+        "Day":"Wednesday"
+    },
+    {
+        "Index":"18",
+        "HolidayName":"Gandhi Jayanti",
+        "Type":"Public",
+        "Date":"2019-10-02",
+        "Day":"Wednesday"
+    },
+    {
+        "Index":"19",
+        "HolidayName":"Dussehra",
+        "Type":"Public",
+        "Date":"2019-10-08",
+        "Day":"Tuesday"
+    },
+    {
+        "Index":"20",
+        "HolidayName":"Diwali",
+        "Type":"Public",
+        "Date":"2019-10-28",
+        "Day":"Monday"
+    },
+    {
+        "Index":"21",
+        "HolidayName":"Bhai Dooj",
+        "Type":"Flexible",
+        "Date":"2019-10-29",
+        "Day":"Tuesday"
+    },
+    {
+        "Index":"22",
+        "HolidayName":"Guru Nanak Jayanti",
+        "Type":"Flexible",
+        "Date":"2019-11-12",
+        "Day":"Tuesday"
+    },
+    {
+        "Index":"23",
+        "HolidayName":"Christmas",
+        "Type":"Public",
+        "Date":"2019-12-25",
+        "Day":"Wednesday"
+    }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body":[ {
+        "type": "TextBlock",
+        "text": "**Hi, I am Nagarro Leave Management Bot. \nI can help you with one of the following things**"
+        
+      },
+      {
+        "type": "TextBlock",
+        "text": "Viewing Upcoming public holidays"
+      },
+      {
+        "type": "TextBlock",
+        "text": "Viewing Upcoming flexible holidays and availing the same"
+      },
+      {
+          "type": "TextBlock",
+          "text": "Submitting a leave request"
+      },
+      {
+          "type": "TextBlock",
+          "text": "Viewing your upcoming leaves and opted flexible holidays"
+        }
+    ]
+}

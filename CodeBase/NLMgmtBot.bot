@@ -1,0 +1,52 @@
+{
+  "name": "NLMgmtBot",
+  "padlock": "flI2ltDuhdRldD1KV0rKrw==!laJAgjh8e1+wUvM8ih7u4H0uABNnTY3eUyWtk/iD+TJXywfvUUs4+L3nQ84incyz",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "ca9c8880-04be-4eb2-b7c6-ad10d024718c",
+      "resourceGroup": "MunawwarNazri",
+      "serviceName": "NLMgmtBot",
+      "type": "abs",
+      "name": "NLMgmtBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "dmseCr7zbbCNt3Lm2ycn4A==!PLdiT9QJSQh6s+Bc/77B1sfFZ8VbxCybtx6Bwv15NwMKlH2aATmsqVbEq7JeHd8IQrAikWu+cc7MPZBn80Gh9bN3hX+XAeXGVAz3uCeyIiMtDYMavHU7jfl8PNAc4xSCRWy3eu878E+V9NxsRdw7tFNkpWwGaJGmdGmNen7L5afmi0zKCJ6IuTq3aGS+Vf7ZNOaS3QANe1UaE4nYmoVHSQ==",
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "ca9c8880-04be-4eb2-b7c6-ad10d024718c",
+      "resourceGroup": "MunawwarNazri",
+      "serviceName": "nlmgmtbot930b",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "42c16d3a-2078-4975-9348-6bfe3eec8083",
+      "appPassword": "rICbwh+lpWsQjKxZgLPMPg==!0MxUhylNHiFO7BbP0IXOzHTndF2eZTlzEVjc/TFic8Q=",
+      "endpoint": "https://nlmgmtbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "SIz3Ao7HS870eEYAaz8elw==!J73UbC8XVxC4RSfgcBIy8H2Pv1SX0Byh2393jLHJihkkXjsdo6j6pCj6akWtdAWT",
+      "applicationId": "49bbbc39-41e5-4164-b01c-cc56df1cb00c",
+      "apiKeys": {},
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "ca9c8880-04be-4eb2-b7c6-ad10d024718c",
+      "resourceGroup": "MunawwarNazri",
+      "serviceName": "NLMgmtBottk2agd",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
